@@ -13,4 +13,4 @@ def my_function(a: int, b: int) -> int:
 var1 = int(input("Enter an integer: "))
 var2 = int(input("Enter an integer: "))
 var3 = my_function(var1,var2)
-print("answer is", var3)
+print("answer is: ", var3)
